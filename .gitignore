@@ -2,5 +2,8 @@
 /include
 /lib
 /lib64
+/build
+/dist
 *.pyc
+*.egg-info
 pyvenv.cfg
